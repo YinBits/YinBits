@@ -21,7 +21,7 @@
 </div>
 </div>
 <h3>Stacks</h3>
-<div>
+<div margin="20px">
 
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" padding="10px" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  padding="10px" />
