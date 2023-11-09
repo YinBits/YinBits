@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <h1> Hello! Welcome to my Github profile. <br>
  My name is Bruno Marçal dos Santos!</h1>
 </div>
