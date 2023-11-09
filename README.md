@@ -1,6 +1,7 @@
-
-# 👋 Hello! Welcome to my Github profile.
-## My name is Bruno Marçal dos Santos!
+<div>
+<h1> 👋 Hello! Welcome to my Github profile.</h1> 
+<h2 style="textAlign:center"> My name is Bruno Marçal dos Santos!</h2>
+</div>
 
 ### Contatos:
 <div>
@@ -22,3 +23,10 @@
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
                    
 </div>
+
+##
+<ul>
+  <li>I'm currently working as Freelancer</li>
+  <li>I'm currently learning as React | VueJS </li>
+  <li></li>
+</ul>
