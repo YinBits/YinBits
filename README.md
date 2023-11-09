@@ -1,6 +1,6 @@
 <div align="center">
-<h1> 👋 Hello! Welcome to my Github profile.</h1> 
-<h1> My name is Bruno Marçal dos Santos!</h1>
+<h1> 👋 Hello! Welcome to my Github profile. <br>
+ My name is Bruno Marçal dos Santos!</h1>
 
 
 
