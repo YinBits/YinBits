@@ -1,5 +1,5 @@
 <div align="center">
-<h1> 👋 Hello! Welcome to my Github profile. <br>
+<h1> Hello! Welcome to my Github profile. <br>
  My name is Bruno Marçal dos Santos!</h1>
 
 
