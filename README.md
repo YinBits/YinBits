@@ -2,7 +2,16 @@
 <h1> Hello! Welcome to my Github profile. <br>
  My name is Bruno Marçal dos Santos!</h1>
 
-
+<div>
+ <h2>👤 About</h2>
+ 
+ <ul>
+   <li>👨‍💻 A passionate developer from Brazil with some knowledge of Web Design and Mobile Development & some other things</li>
+  <li>💼 I'm currently working as Freelancer</li>
+  <li>📚 I'm currently learning as React | VueJS </li>
+ 
+</ul>
+</div>
 
 <div padding="10px">
 <a href="https://instagram.com/hts.santos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -24,9 +33,10 @@
                    
 </div>
 
-##
-<ul>
-  <li>I'm currently working as Freelancer</li>
-  <li>I'm currently learning as React | VueJS </li>
-  <li></li>
-</ul>
+<div>
+<a href="https://github.com/YinBits">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinBits&layout=compact&langs_count=7&theme=Xcode"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YinBits&show_icons=true&theme=Xcode&include_all_commits=true&count_private=true"/>
+</div>
+
+
