@@ -1,7 +1,7 @@
-<div>
+<div align="center">
 <h1> 👋 Hello! Welcome to my Github profile.</h1> 
-<h2 style="textAlign:center"> My name is Bruno Marçal dos Santos!</h2>
-</div>
+<h2> My name is Bruno Marçal dos Santos!</h2>
+
 
 ### Contatos:
 <div>
@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/bruno-marçal-dos-santos-325393228" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href="https://t.me/brunisxl" target="_blank"><img loading="lazy" src="https://camo.githubusercontent.com/ed2afb95f66a2d9ce8bc243ed7bf535d8ff8556f444ee6c70148bcf58995b238/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3232386663363f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465"style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>   
 </div>
-
+</div>
 ### Stacks
 <div>
 
