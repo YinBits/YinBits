@@ -28,7 +28,7 @@
 <br>
  
 </div>
-<h3>Stacks</h3>
+<h2>Stacks</h2>
 <div margin="20px">
 
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" padding="10px" />
