@@ -1,8 +1,4 @@
-<style>
-  .image{
-    width:100px;
-  };
-</style>
+
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Bruno Marçal dos Santos!
 
@@ -16,6 +12,11 @@
 
 ### Stacks
 <div>
+  <style>
+  .image{
+    width:100px;
+  };
+</style>
 <img class="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img class="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img class="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
