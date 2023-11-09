@@ -18,7 +18,15 @@
   <li>📚 I'm currently learning as React | VueJS </li>
 </ul>
 </div>
+<br>
 
+<div>
+<a href="https://github.com/YinBits">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinBits&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YinBits&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<br>
+ 
 </div>
 <h3>Stacks</h3>
 <div margin="20px">
@@ -31,12 +39,6 @@
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"  padding="10px" />                
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"  padding="10px" />
                    
-</div>
-<br>
-<div>
-<a href="https://github.com/YinBits">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YinBits&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YinBits&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
