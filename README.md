@@ -14,7 +14,6 @@
  <h2>👤 About</h2>
  <ul>
    <li>👨‍💻 A passionate developer from Brazil with some knowledge of Web Design and Mobile Development & some other things</li>
-  <li>💼 I'm currently working as Freelancer</li>
   <li>📚 I'm currently learning as React </li>
 </ul>
 </div>
