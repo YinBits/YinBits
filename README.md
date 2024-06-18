@@ -13,7 +13,7 @@
  <h2>👤 About</h2>
  <ul>
    <li>👨‍💻 A passionate developer from Brazil with some knowledge of Back-end Development and Mobile Development & some other things</li>
-  <li>📚 I'm currently learning as React </li>
+  <li>📚 I'm currently learning as Java </li>
 </ul>
 </div>
 <br>
